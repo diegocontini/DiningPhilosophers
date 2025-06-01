@@ -1,0 +1,14 @@
+C:\dev\projects\utfpr\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.exe
+C:\dev\projects\utfpr\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.deps.json
+C:\dev\projects\utfpr\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.runtimeconfig.json
+C:\dev\projects\utfpr\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.dll
+C:\dev\projects\utfpr\DiningPhilosophers\bin\Debug\net8.0\DiningPhilosophers.pdb
+C:\dev\projects\utfpr\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\utfpr\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.AssemblyInfoInputs.cache
+C:\dev\projects\utfpr\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.AssemblyInfo.cs
+C:\dev\projects\utfpr\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.csproj.CoreCompileInputs.cache
+C:\dev\projects\utfpr\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.dll
+C:\dev\projects\utfpr\DiningPhilosophers\obj\Debug\net8.0\refint\DiningPhilosophers.dll
+C:\dev\projects\utfpr\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.pdb
+C:\dev\projects\utfpr\DiningPhilosophers\obj\Debug\net8.0\DiningPhilosophers.genruntimeconfig.cache
+C:\dev\projects\utfpr\DiningPhilosophers\obj\Debug\net8.0\ref\DiningPhilosophers.dll
